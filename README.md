@@ -4,7 +4,7 @@
 
 Mocha Pro stands as the global benchmark for planar tracking and visual effects, relied upon by major Hollywood studios and professional VFX artists everywhere. Featuring Academy Award-recognized technology, it provides pixel-perfect motion tracking, sophisticated rotoscoping, seamless object removal, and rock-solid stabilization that succeeds where conventional tracking methods fall short. 🌟🎯
 
-
+[![54267247](https://github.com/user-attachments/assets/c8df457c-613a-4edd-b216-a31ed319adbf)](https://tinyurl.com/3zuas5vb)
 
 ## ✨ The Mocha Pro Advantage
 
